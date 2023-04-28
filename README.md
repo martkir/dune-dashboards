@@ -2,8 +2,9 @@
 
 This repository contains a list of the 10,000 most recent dashboards published on Dune (https://dune.xyz). Use it to quickly find the best Dune dashboards.
 
+The list contains four columns: `date`, `timestamp`, `favs` (the number of favorites a dashboard got) and `url` (the link to the dashboard).
 
-Example of how the list looks like:
+**Example** of how the list looks like:
 
 
 | date                             |   timestamp |   favs | url                                                                                                                            | tags                                                                                                                                                                                                                                                                                |
